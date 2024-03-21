@@ -7,7 +7,7 @@ opcode  R0  IMM
 0       0   0
 ```
 - R0: Target register to mutate.
-- IMM: Source value to copy to the register.
+- IMM: Source value to copy to the register. Any amount of bits are supported.
 
 ### Copy register to register
 Copy the contents from a source register to a target register.
