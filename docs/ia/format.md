@@ -8,13 +8,13 @@ The only required parameter for an instruction to be valid is the operation iden
 
 ### Exploded instruction format
 ```
-opcode r1 r2 imm
+opcode r0 r1 imm
 ```
 
 #### Operation Code (opcode)
 Operation codes (opcodes) are 8 bit integers that can be used to reffer to the operation that the host must run.
 
-#### Register parameters (r1 and r2)
+#### Register parameters (r0 and r1)
 Registers are of a variety of sizes up to the architecture bit size, volitile, and fast. They are referenced with 8 bit register identifiers. Certain instructions may expect a register identifier for performing operations. Instructions can accept at most 2 register parameters.
 - Many sizes.
 - 8 bits to reffer.
