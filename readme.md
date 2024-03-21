@@ -1,5 +1,5 @@
-<img width="100%" src="./asset/Banner Dark.svg#gh-dark-mode-only" />
-<img width="100%" src="./asset/Banner light.svg#gh-light-mode-only" />
+<img width="100%" src="./asset/Banner-Dark.svg#gh-dark-mode-only" />
+<img width="100%" src="./asset/Banner-Light.svg#gh-light-mode-only" />
 
 # Silver Skies - Processor (SSP)
 A processor project focused on speed, efficiency, cost, and performance.
