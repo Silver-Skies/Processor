@@ -3,11 +3,11 @@
 version = 3
 
 [[package]]
-name = "assembly"
+name = "architecture"
 version = "0.1.0"
 
 [[package]]
-name = "decoder"
+name = "assembly"
 version = "0.1.0"
 
 [[package]]

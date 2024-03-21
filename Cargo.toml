@@ -1,1 +1,1 @@
-workspace = { members = ["src/assembly", "src/decoder", "src/emulation", "src/translation"] }
+workspace = { members = ["src/assembly", "src/architecture", "src/emulation", "src/translation"] }
