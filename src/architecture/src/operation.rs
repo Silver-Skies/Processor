@@ -6,6 +6,9 @@ pub trait ByteStream {
     fn get_relative(&mut self, position: isize) -> u8;
 
     fn set_cursor(&mut self, cursor: usize);
+    fn get_cursor(&mut self) -> usize;
+    fn get_current(&mut self) -> u8;
+    fn get_at(&mut self, point: usize) -> u8;
 }
 
 pub struct Parser<'a> {
