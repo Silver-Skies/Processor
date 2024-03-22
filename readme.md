@@ -5,7 +5,8 @@
 A processor project focused on speed, efficiency, cost, and performance.
 
 ### [Documentation](./docs.md)
-> [!IMPORTANT] The documentation is currently not finish or developed yet.
+> [!IMPORTANT] 
+> The documentation is currently not finish or developed yet.
 
 Read information for how to write code for the processor, how to emulate, and more.
 
